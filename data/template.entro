@@ -1,0 +1,15 @@
+q-Howdy! This is an example as to what you can do with entro.py.
+# Lines starting with hashtag will be ignored by entro.py.
+c-This is a choice! It'll automatically be assigned a character on the keyboard that isn't a built-in return value.
+r-examplereturnfile.entro
+#Don't forget that folders will work, too!
+c-This doesn't do anything.
+r-none
+c-Now let's see a fight.
+f-{"carlos", 13, 13, 99, 1, 0}
+wr-none
+lr-none
+#^ f is a fight flag! This would start a fight, with "carlos" as the enemy, 13 hp, 13 max hp, 99 atk, 1 def, and 0 mana.
+# wr is the win return.
+# lr is the lose return.
+# That's it! Have at thee!
