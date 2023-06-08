@@ -1,4 +1,4 @@
-q-Howdy! This is an example as to what you can do with entro.py.
+q-Howdy! This is an example as to what you can do with entro.py. (This is a character quote.)
 # Lines starting with hashtag will be ignored by entro.py.
 c-This is a choice! It'll automatically be assigned a character on the keyboard that isn't a built-in return value.
 r-examplereturnfile.entro
