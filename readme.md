@@ -3,10 +3,10 @@
 entropy
 
 ## how to play
-run entro.py
+- run entro.py
 
 ## how to add/mod
-edit the data folder
-edit entro.py
+- edit the data folder
+- edit entro.py
 
 enjoy
